@@ -48,7 +48,7 @@ Create the original genesis hash found in HiroCoin (requires [xcoin-hash](https:
 ### Options
     Usage: genesis.py [options]
     
-    Options:
+    Options for the command:
       -h, --help show this help message and exit
       -t TIME, --time=TIME  the (unix) time when the genesisblock is created
       -z TIMESTAMP, --timestamp=TIMESTAMP
